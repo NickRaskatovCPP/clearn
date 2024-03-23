@@ -68,6 +68,11 @@
 //удаляем ветку с фичей.
 
 //просмотр всех веток
-//git branch
+//git branch nazvaniyeVetki
 //просмотр веток с коммитами
 //git branch -v
+
+//переключение между ветками
+//git checkout 
+//сразу и создание и переключение на новую ветку
+//git checkout -b novayaVetv
