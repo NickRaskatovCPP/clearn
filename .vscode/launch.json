@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/clearn",
-      "program": "c:/clearn/build/Debug/outDebug",
+      "cwd": "c:/gitlearn",
+      "program": "c:/gitlearn/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
