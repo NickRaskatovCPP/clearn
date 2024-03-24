@@ -27,7 +27,7 @@
 //коммит, то можно написать так 
 //git show HEAD~
 //поиск коммита по какой - либо инфе в коммите
-//git show :/anythiginfoWhatIrememberfromCommit
+//git show :/anythiginfoWhatIrememberfromCommitY
 
 //удаление файлов
 //физически удаляем файл из дирректории, далее через git add добавляем факт удаления файла
